@@ -28,7 +28,7 @@ description: Introduction to Computational Biology
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  Syllabus: ""
+  Syllabus: "syllabus"
   About the course: "aboutme"
   #Author's home: "http://deanattali.com"
   
