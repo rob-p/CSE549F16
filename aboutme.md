@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About the course
+published: true
 ---
 
 This is the course website for CSE549 (Fall 2016) at Stony Brook University.
@@ -10,3 +11,12 @@ a computational background and a reasonable level of mathematical maturity.
 No Biological expertise is assumed, but Biology drives and motivates all of
 the problems we will study, so you will be expected to learn the Biology that 
 is relevant to the topics we cover.
+
+## People
+
+- Instructor: Rob Patro
+	- Office: NCS 259
+    - Office Hours: Tues. 1-3PM
+- TA: Laraib Malik
+	- TA Office: TBA
+    - Office Hours: TBA
