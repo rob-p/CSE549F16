@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Syllabus'
+title: Syllabus
 published: true
 ---
 Welcome to Computational Biology (CSE 549). Here you'll find an overview of the course — the material I expect we'll cover, the breakdown of course assignments and credit, and the course policies.
@@ -55,4 +55,4 @@ Academic integrity: [From the University’s Academic Integrity Syllabus Stateme
 
 Academic integrity is a very serious issue. Any assignment, project or exam you complete in this course is expected to be your own work. If you are allowed to discuss the details of or work together on an assignment, this will be made explicit. Otherwise, you are expected to complete the work yourself. *Plagarism is not just the outright copying of content*. If you paraphrase someone else's thoughts, words, or ideas and you don't cite your source, this constitues plagraism (i.e. this is just as bad as copying someone's answer on an exam or code on a homework). It is always much better to turn in an incorrect or incomplete assignment representing your own efforts than to attempt to pass off the work of another as your own. I have a lot of tolerance for those who are making a significant effort but may be having trouble understanding a particular concept or completing a certain assignment. However, there will be no tolerance of academic dishonesty. **If you are academically dishonest in this course, you will recieve a grade of F, and you will be reported to the department's academic integrity committee**.
 
-Learning disabilities: If you have a physical, psychological, medical or learning disability that may impact your course work, please contact Disability Support Services, ECC (Educational Communications Center) Building, room 128, (631) 632-6748. They will determine with you what accommodations, if any, are necessary and appropriate. All information and documentation is confidential.
+**Learning disabilities**: If you have a physical, psychological, medical or learning disability that may impact your course work, please contact Disability Support Services, ECC (Educational Communications Center) Building, room 128, (631) 632-6748. They will determine with you what accommodations, if any, are necessary and appropriate. All information and documentation is confidential.
