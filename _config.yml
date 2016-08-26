@@ -37,13 +37,13 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
-  email: "youremail@domain.com"
-  facebook: yourname  # eg. daattali
-  github: yourname    # eg. daattali
-  twitter: yourname   # eg. daattali
-  linkedin: yourlink  # eg. "pub/dean-attali/8/946/143"
-  stackoverflow: yourlink  # eg. "3943160/daattali"
+  name: Rob Patro
+  #email: "youremail@domain.com"
+  #facebook: yourname  # eg. daattali
+  #github: yourname    # eg. daattali
+  #twitter: yourname   # eg. daattali
+  #linkedin: yourlink  # eg. "pub/dean-attali/8/946/143"
+  #stackoverflow: yourlink  # eg. "3943160/daattali"
  
 # Select which links to show in the footer
 footer-links-active:
