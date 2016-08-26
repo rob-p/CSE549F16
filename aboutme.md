@@ -1,16 +1,12 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About the course
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+This is the course website for CSE549 (Fall 2016) at Stony Brook University.
+The focus of this course will be on algorithmic and computational ideas in 
+Computational Biology and Bioinformatics --- it is intended for students with
+a computational background and a reasonable level of mathematical maturity.
+No Biological expertise is assumed, but Biology drives and motivates all of
+the problems we will study, so you will be expected to learn the Biology that 
+is relevant to the topics we cover.
