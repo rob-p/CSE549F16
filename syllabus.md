@@ -9,26 +9,26 @@ Welcome to Computational Biology (CSE 549). Here you'll find an overview of the 
 
 **Textbook(s)**: The officially listed textbooks for this course are "Bioinformatics Algorithms: An Active Learning Approach" [Volume I](https://www.amazon.com/Bioinformatics-Algorithms-Active-Learning-Approach/dp/0990374610) and [Volume II](https://www.amazon.com/Bioinformatics-Algorithms-Active-Learning-Approach/dp/0990374629/ref=pd_sim_14_1?ie=UTF8&psc=1&refRID=40X4TFRTNNVP26HCPYX0). The lectures and slides will introduce the topics and cover the majority of the information you'll be expected to know. Further resources, where relevant, will be provided via links on this website accompanying the slides or lecture notes. However, you should use these textbooks as a resource when you feel you need more information about a particular topic or when you wish to learn the material at a different pace than we cover in the course.  There are other (non-required) textbooks that I personally recommend as references:
 
-- Genome Scale Algorithm Design (Mäkinen, Belazzougui, Cunial, Tomescu 2015)
-- Biological Sequence Analysis (Durbin, Eddy, Krogh, Mitchinson 1998)
+- [Genome Scale Algorithm Design](http://www.cs.helsinki.fi/group/gsa/book/) (Mäkinen, Belazzougui, Cunial, Tomescu 2015)
+- [Biological Sequence Analysis](http://www.amazon.com/Biological-Sequence-Analysis-Probabilistic-Proteins/dp/0521629713) (Durbin, Eddy, Krogh, Mitchinson 1998)
 
 If, you're from a discipline where you've not had a formal algorithms course, I find 
 
-- Algorithms (Dasgupta, Papadimitriou, and Vazirani 2006) to be a nice introduction to the basics. 
+- [Algorithms](http://beust.com/algorithms.pdf) (Dasgupta, Papadimitriou, and Vazirani 2006) to be a nice introduction to the basics. 
  
 I also recommend 
 
-- Algorithm Design (Kleinberg and Tardos 2006) 
+- [Algorithm Design](http://www.amazon.com/Algorithm-Design-Jon-Kleinberg/dp/0321295358) (Kleinberg and Tardos 2006) 
  
 and, of course, 
 
-- The Algorithm Design Manual (Skiena 2008).
+- [The Algorithm Design Manual](http://www.amazon.com/gp/product/1848000693/ref=pd_lpo_sbs_dp_ss_3?pf_rd_p=1944687742&pf_rd_s=lpo-top-stripe-1&pf_rd_t=201&pf_rd_i=0321295358&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=02TJC7H7CDMT55WH5X9V) (Skiena 2008).
 
 We will cover the basic required molecular Biology in the course. However if you're not familiar with basic molecular Biology, there are some useful resources worth reading:
 
-- Molecular Biology of the Cell, by Bruce Alberts, Alexander Johnson, Julian Lewis, Martin Raff, Keith Roberts, and Peter Walter. Garland Publishing, 2002. — This is a great free resource.
+- [Molecular Biology of the Cell](http://www.ncbi.nlm.nih.gov/books/bv.fcgi?call=bv.View..ShowTOC&rid=mboc4.TOC&depth=2), by Bruce Alberts, Alexander Johnson, Julian Lewis, Martin Raff, Keith Roberts, and Peter Walter. Garland Publishing, 2002. — This is a great free resource.
 
-- Molecular Biology (Clark and Pazdernik 2012)
+- [Molecular Biology](http://www.amazon.com/Molecular-Biology-Second-Edition-David/dp/0123785944) (Clark and Pazdernik 2012)
 
 **Expectations**: Since this is a computational Biology course, you will be expected to become familiar with the relevant Biology — it is an important and inextricable part of the material, and the underlying Biology provides motivation for the computational problems we will tackle.
 
