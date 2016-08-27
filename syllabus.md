@@ -38,10 +38,10 @@ We will cover the basic required molecular Biology in the course. However if you
 
 **Coursework and grading**: The coursework will consist of two exams, a midterm (whose tentative date is Tues, October 11) and a final (on the University-scheduled date). In addition there will be a few homework assignments (some small programming assignments, and one or two written homeworks that will require you to devise / explain an algorithm, or prove some properly about an algorithm or data structure that we cover in class) and a final course project. The final project can be selected from a list of projects that will be distributed in a few weeks. The project will be done in teams of 3 - 4 students (a team of 2 is OK, but no solo projects and **no teams > 4 students**). For the final project, there will be a brief (7 min) presentation by each group, a deliverable as runnable code, and a short (4-5 page) research-style paper describing the work you've done. The breakdown of weights for these different assignments will be as follows:
 
-Midterm — 30%
-Final — 30%
-Final Project — 20%
-Homeworks — 20%
+- Midterm — 30%
+- Final — 30%
+- Final Project — 20%
+- Homeworks — 20%
 
 **Regrade policy**: All requests to re-grade, re-check, or re-mark an assignment or exam question **must be made in writing**. When the assignment is re-graded, it will be re-checked in its entirety. This means that *it is possible to lose points on other problems if they were graded incorrectly or too leniently the first time*. Therefore, I urge you to thoroughly consider each regrade request you make.
 
