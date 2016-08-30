@@ -30,6 +30,7 @@ navbar-links:
   Home: ""
   Syllabus: "syllabus"
   About the course: "aboutme"
+  Lecture slides: "lectures"
   #Author's home: "http://deanattali.com"
   
 # --- Footer options --- #
