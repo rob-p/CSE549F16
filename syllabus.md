@@ -32,7 +32,16 @@ We will cover the basic required molecular Biology in the course. However if you
 
 **Expectations**: Since this is a computational Biology course, you will be expected to become familiar with the relevant Biology — it is an important and inextricable part of the material, and the underlying Biology provides motivation for the computational problems we will tackle.
 
-**Course Objectives**: The main objective of this course will be to provide a broad overview of the major areas of Bioinformatics and Computational Biology (B/CB). Our perspective will be a computational and algorithmic one, though we will take the time to understand the necessary Biology and motivation for the problems we discuss. We will touch upon many areas of B/CB, including phylogenetics, genome structure and Biological network analysis. However, there will be a significant concentration on genomics and related problems such as high-throughput read alignment, gene finding, genome assembly and transcriptome assembly and analysis. At the end of this course, you should have a good understanding of the types of problems people work on in B/CB, and a fairly in-depth knowledge of the computational tools and techniques used to address some foundational problems in the field.
+**Course Objectives**: The main objective of this course will be to provide a broad overview of the major areas of Bioinformatics and Computational Biology (B/CB). Our perspective will be a computational and algorithmic one, though we will take the time to understand the necessary Biology and motivation for the problems we discuss. We will touch upon many areas of B/CB, including phylogenetics, genome structure and Biological network analysis. However, there will be a significant concentration on genomics and related problems such as high-throughput read alignment, gene finding, genome assembly and transcriptome assembly and analysis. At the end of this course, you should have a good understanding of the types of problems people work on in B/CB, and a fairly in-depth knowledge of the computational tools and techniques used to address some foundational problems in the field.  A tentative list of topics we will cover (depending on how quickly we move) is:
+
+  * Optimal sequence alignment (global, local, and glocal alignment — with constant & affine gap penalties
+  * Algorithms and data structures for efficient text indexing and *exact* search
+  * Heuristics for read *alignment* and *mapping* — mapping DNA-seq and RNA-seq reads
+  * Genome assembly — k-mers, De Brujin graph construction and representation, long-read technology and read-overlap graph assembly
+  * Motif finding via Gibbs sampling
+  * Gene finding — statistical models for *ab initio* and evidence-guided prediction of genes
+  * RNA-seq and transcriptomics — transcript assembly, abundance estimation and differential expression testing
+  * Phylogenetics — The small and large phylogeny problem; parsimony, maximum likelihood and Bayesian methods
 
 ## Course Policy
 
