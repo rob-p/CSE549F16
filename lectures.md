@@ -13,4 +13,8 @@ subtitle: Lectures and related material
  * [Transcription](https://www.dnalc.org/resources/3d/12-transcription-basic.html)
  * [Translation](https://www.dnalc.org/resources/3d/15-translation-basic.html)
 
+## Assignments for waitlisted students
+ * [Assignment 1 - academic honesty review][honesty]
+
 [1]:{{ site.url }}/lectures/Lec01.pdf
+[honesty]:{{ site.url }}/assets/honesty.pdf
