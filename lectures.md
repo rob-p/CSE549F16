@@ -9,6 +9,7 @@ subtitle: Lectures and related material
  * [Lecture 1 : Course introduction, policies and prospective topics & basic bio][1]
  * [Lecture 2 : Basic bio (part 2) & computational approaches to biological problems][2]
  * [Lecture 3 : Sequencing by synthesis and "short read" technology][3]
+ * [Lecture 4 : Pairwise sequence alignment][4]
  
 ## Other links
  * [Molecular Biology of the Cell](http://osp.mans.edu.eg/tmahdy/surgeons/ebooks/Books/Alberts%20-%20Molecular%20Biology%20of%20the%20Cell.pdf)
@@ -21,4 +22,5 @@ subtitle: Lectures and related material
 [1]:{{ site.url }}/lectures/Lec01.pdf
 [2]:{{ site.url }}/lectures/Lec02.pdf
 [3]:{{ site.url }}/lectures/Lec03.pdf
+[4]:{{ site.url }}/lectures/Lec04_alignment.pdf
 [honesty]:{{ site.url }}/assets/honesty.pdf
