@@ -10,6 +10,7 @@ subtitle: Lectures and related material
  * [Lecture 2 : Basic bio (part 2) & computational approaches to biological problems][2]
  * [Lecture 3 : Sequencing by synthesis and "short read" technology][3]
  * [Lecture 4 : Pairwise sequence alignment][4]
+ * [Lecture 5 : General and affine gap penalties][5]
  
 ## Other links
  * [Molecular Biology of the Cell](http://osp.mans.edu.eg/tmahdy/surgeons/ebooks/Books/Alberts%20-%20Molecular%20Biology%20of%20the%20Cell.pdf)
@@ -23,4 +24,5 @@ subtitle: Lectures and related material
 [2]:{{ site.url }}/lectures/Lec02.pdf
 [3]:{{ site.url }}/lectures/Lec03.pdf
 [4]:{{ site.url }}/lectures/Lec04_alignment.pdf
+[4]:{{ site.url }}/lectures/Lec05_gap_penalties.pdf
 [honesty]:{{ site.url }}/assets/honesty.pdf
