@@ -24,5 +24,5 @@ subtitle: Lectures and related material
 [2]:{{ site.url }}/lectures/Lec02.pdf
 [3]:{{ site.url }}/lectures/Lec03.pdf
 [4]:{{ site.url }}/lectures/Lec04_alignment.pdf
-[4]:{{ site.url }}/lectures/Lec05_gap_penalties.pdf
+[5]:{{ site.url }}/lectures/Lec05_gap_penalties.pdf
 [honesty]:{{ site.url }}/assets/honesty.pdf
