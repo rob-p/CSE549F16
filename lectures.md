@@ -11,6 +11,7 @@ subtitle: Lectures and related material
  * [Lecture 3 : Sequencing by synthesis and "short read" technology][3]
  * [Lecture 4 : Pairwise sequence alignment][4]
  * [Lecture 5 : General and affine gap penalties][5]
+ * [Lecture 6 : Optimal alignment in linear space][6]
  
 ## Other links
  * [Molecular Biology of the Cell](http://osp.mans.edu.eg/tmahdy/surgeons/ebooks/Books/Alberts%20-%20Molecular%20Biology%20of%20the%20Cell.pdf)
@@ -25,4 +26,5 @@ subtitle: Lectures and related material
 [3]:{{ site.url }}/lectures/Lec03.pdf
 [4]:{{ site.url }}/lectures/Lec04_alignment.pdf
 [5]:{{ site.url }}/lectures/Lec05_gap_penalties.pdf
+[6]:{{ site.url }}/lectures/Lec06_linear_space_alignment.pdf
 [honesty]:{{ site.url }}/assets/honesty.pdf
