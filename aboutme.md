@@ -18,5 +18,5 @@ is relevant to the topics we cover.
 	- Office: NCS 259
     - Office Hours: Tues. 1-3PM
 - TA: Laraib Malik
-	- TA Office: TBA
-    - Office Hours: TBA
+	- TA Office: NCS 156
+    - Office Hours: Wed. 3-5PM
