@@ -15,6 +15,7 @@ subtitle: Lectures and related material
  * [Lecture 7 & 8 : Phylogenomics; small & large phylogeny problem][7]
  
 ## Other links
+ * [List of final project options][proj]
  * [Molecular Biology of the Cell](http://osp.mans.edu.eg/tmahdy/surgeons/ebooks/Books/Alberts%20-%20Molecular%20Biology%20of%20the%20Cell.pdf)
  * [Transcription](https://www.dnalc.org/resources/3d/12-transcription-basic.html)
  * [Translation](https://www.dnalc.org/resources/3d/15-translation-basic.html)
@@ -28,5 +29,6 @@ subtitle: Lectures and related material
 [4]:{{ site.url }}/lectures/Lec04_alignment.pdf
 [5]:{{ site.url }}/lectures/Lec05_gap_penalties.pdf
 [6]:{{ site.url }}/lectures/Lec06_linear_space_alignment.pdf
-[7]:{{site.url}}/lectures/CSE549-Lec07_08-phylogeny.pdf
+[7]:{{ site.url }}/lectures/CSE549-Lec07_08-phylogeny.pdf
+[proj]:{{ site.url }}/assets/ProjectList.pdf
 [honesty]:{{ site.url }}/assets/honesty.pdf
