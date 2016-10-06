@@ -12,9 +12,10 @@ subtitle: Lectures and related material
  * [Lecture 4 : Pairwise sequence alignment][4]
  * [Lecture 5 : General and affine gap penalties][5]
  * [Lecture 6 : Optimal alignment in linear space][6]
- * [Lecture 7 & 8 : Phylogenomics; small & large phylogeny problem][7]
+ * [Lecture 7 : Multiple Sequence Alignment][7]
+ * [Lecture 8 & 9 : Phylogenomics; small & large phylogeny problem][8]
  * [Presentation of final project options][proj]
- * [Lecture 9 : Exact pattern matching with KMP][9]
+ * [Lecture 10 : Exact pattern matching with KMP][9]
  
 ## Other links
  * [List of final project options][proj]
@@ -31,7 +32,8 @@ subtitle: Lectures and related material
 [4]:{{ site.url }}/lectures/Lec04_alignment.pdf
 [5]:{{ site.url }}/lectures/Lec05_gap_penalties.pdf
 [6]:{{ site.url }}/lectures/Lec06_linear_space_alignment.pdf
-[7]:{{ site.url }}/lectures/CSE549-Lec07_08-phylogeny.pdf
+[7]:{{ site.url }}/lectures/CSE549-Lec07-MSA.pdf
+[8]:{{ site.url }}/lectures/CSE549-Lec07_08-phylogeny.pdf
 [9]:{{ site.url }}/lectures/CSE549-Lec09-KMP.pdf
 [proj]:{{ site.url }}/assets/ProjectList.pdf
 [honesty]:{{ site.url }}/assets/honesty.pdf
