@@ -16,6 +16,7 @@ subtitle: Lectures and related material
  * [Lecture 8 & 9 : Phylogenomics; small & large phylogeny problem][8]
  * [Presentation of final project options][proj]
  * [Lecture 10 : Exact pattern matching with KMP][9]
+ * [Lecture 11 : Suffix Tries and Suffix Trees][10]
  
 ## Other links
  * [List of final project options][proj]
@@ -35,5 +36,6 @@ subtitle: Lectures and related material
 [7]:{{ site.url }}/lectures/CSE549-Lec07-MSA.pdf
 [8]:{{ site.url }}/lectures/CSE549-Lec07_08-phylogeny.pdf
 [9]:{{ site.url }}/lectures/CSE549-Lec09-KMP.pdf
+[10]:{{ site.url }}/lectures/CSE549-Lec10-SuffixTrees.pdf
 [proj]:{{ site.url }}/assets/ProjectList.pdf
 [honesty]:{{ site.url }}/assets/honesty.pdf
