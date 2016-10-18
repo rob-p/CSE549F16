@@ -17,6 +17,7 @@ subtitle: Lectures and related material
  * [Presentation of final project options][proj]
  * [Lecture 10 : Exact pattern matching with KMP][9]
  * [Lecture 11 : Suffix Tries and Suffix Trees][10]
+ * [Lecture 12 : Suffix Arrays][11]
  
 ## Other links
  * [List of final project options][proj]
@@ -37,5 +38,6 @@ subtitle: Lectures and related material
 [8]:{{ site.url }}/lectures/CSE549-Lec07_08-phylogeny.pdf
 [9]:{{ site.url }}/lectures/CSE549-Lec09-KMP.pdf
 [10]:{{ site.url }}/lectures/CSE549-Lec10-SuffixTrees.pdf
+[11]:{{ site.url }}/lectures/CSE549-Lec11-SuffixArrays.pdf
 [proj]:{{ site.url }}/assets/ProjectList.pdf
 [honesty]:{{ site.url }}/assets/honesty.pdf
