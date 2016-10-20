@@ -18,6 +18,7 @@ subtitle: Lectures and related material
  * [Lecture 10 : Exact pattern matching with KMP][9]
  * [Lecture 11 : Suffix Tries and Suffix Trees][10]
  * [Lecture 12 : Suffix Arrays][11]
+ * [Lecture 13 : BWT & FM-index][12]
  
 ## Other links
  * [List of final project options][proj]
@@ -39,5 +40,6 @@ subtitle: Lectures and related material
 [9]:{{ site.url }}/lectures/CSE549-Lec09-KMP.pdf
 [10]:{{ site.url }}/lectures/CSE549-Lec10-SuffixTrees.pdf
 [11]:{{ site.url }}/lectures/CSE549-Lec11-SuffixArrays.pdf
+[12]:{{ site.url }}/lectures/CSE549-Lec12-BWT.pdf
 [proj]:{{ site.url }}/assets/ProjectList.pdf
 [honesty]:{{ site.url }}/assets/honesty.pdf
