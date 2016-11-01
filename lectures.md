@@ -19,6 +19,8 @@ subtitle: Lectures and related material
  * [Lecture 11 : Suffix Tries and Suffix Trees][10]
  * [Lecture 12 : Suffix Arrays][11]
  * [Lecture 13 : BWT & FM-index][12]
+ * [Lecture 14 : Overlap, Layout, Consensus assembly][13]
+ * [Lecture 15 : De Bruijn graph (DBG)-based assembly][13]
  
 ## Other links
  * [Least Common Ancestor (via RMQ) in linear space and constant time](https://courses.csail.mit.edu/6.851/spring12/lectures/L15.html)
@@ -42,5 +44,7 @@ subtitle: Lectures and related material
 [10]:{{ site.url }}/lectures/CSE549-Lec10-SuffixTrees.pdf
 [11]:{{ site.url }}/lectures/CSE549-Lec11-SuffixArrays.pdf
 [12]:{{ site.url }}/lectures/CSE549-Lec12-BWT.pdf
+[13]:{{ site.url }}/lectures/CSE549-Lec13-OLC.pdf
+[14]:{{ site.url }}/lectures/CSE549-Lec14-DBG.pdf
 [proj]:{{ site.url }}/assets/ProjectList.pdf
 [honesty]:{{ site.url }}/assets/honesty.pdf
