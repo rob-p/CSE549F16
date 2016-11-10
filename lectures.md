@@ -20,7 +20,8 @@ subtitle: Lectures and related material
  * [Lecture 12 : Suffix Arrays][11]
  * [Lecture 13 : BWT & FM-index][12]
  * [Lecture 14 : Overlap, Layout, Consensus assembly][13]
- * [Lecture 15 : De Bruijn graph (DBG)-based assembly][13]
+ * [Lecture 15 : De Bruijn graph (DBG)-based assembly][14]
+ * [Lecture 16 : Exact and approximate representation of k-mers][15]
  
 ## Other links
  * [Least Common Ancestor (via RMQ) in linear space and constant time](https://courses.csail.mit.edu/6.851/spring12/lectures/L15.html)
@@ -46,5 +47,6 @@ subtitle: Lectures and related material
 [12]:{{ site.url }}/lectures/CSE549-Lec12-BWT.pdf
 [13]:{{ site.url }}/lectures/CSE549-Lec13-OLC.pdf
 [14]:{{ site.url }}/lectures/CSE549-Lec14-DBG.pdf
+[15]:{{ site.url }}/lectures/CSE549-Lec15-Kmers.pdf
 [proj]:{{ site.url }}/assets/ProjectList.pdf
 [honesty]:{{ site.url }}/assets/honesty.pdf
