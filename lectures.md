@@ -22,6 +22,7 @@ subtitle: Lectures and related material
  * [Lecture 14 : Overlap, Layout, Consensus assembly][13]
  * [Lecture 15 : De Bruijn graph (DBG)-based assembly][14]
  * [Lecture 16 : Exact and approximate representation of k-mers][15]
+ * [Lecture 17 : (Hidden) Markov Models & Inference I][17]
  
 ## Other links
  * [Least Common Ancestor (via RMQ) in linear space and constant time](https://courses.csail.mit.edu/6.851/spring12/lectures/L15.html)
@@ -46,7 +47,8 @@ subtitle: Lectures and related material
 [11]:{{ site.url }}/lectures/CSE549-Lec11-SuffixArrays.pdf
 [12]:{{ site.url }}/lectures/CSE549-Lec12-BWT.pdf
 [13]:{{ site.url }}/lectures/CSE549-Lec13-OLC.pdf
-[14]:{{ site.url }}/lectures/CSE549-Lec14-DBG.pdf
-[15]:{{ site.url }}/lectures/CSE549-Lec15-Kmers.pdf
+[14]:{{ site.url }}/lectures/CSE549-Lec15-DBG.pdf
+[15]:{{ site.url }}/lectures/CSE549-Lec16-Kmers.pdf
+[17]:{{ site.url }}/lectures/CSE549-Lec17-HMM.pdf
 [proj]:{{ site.url }}/assets/ProjectList.pdf
 [honesty]:{{ site.url }}/assets/honesty.pdf
