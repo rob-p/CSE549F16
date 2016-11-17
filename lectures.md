@@ -23,6 +23,7 @@ subtitle: Lectures and related material
  * [Lecture 15 : De Bruijn graph (DBG)-based assembly][14]
  * [Lecture 16 : Exact and approximate representation of k-mers][15]
  * [Lecture 17 : (Hidden) Markov Models & Inference I][17]
+ * [Lecture 18 : Ab initio gene finding & Inference II][18]
  
 ## Other links
  * [Least Common Ancestor (via RMQ) in linear space and constant time](https://courses.csail.mit.edu/6.851/spring12/lectures/L15.html)
@@ -50,5 +51,6 @@ subtitle: Lectures and related material
 [14]:{{ site.url }}/lectures/CSE549-Lec15-DBG.pdf
 [15]:{{ site.url }}/lectures/CSE549-Lec16-Kmers.pdf
 [17]:{{ site.url }}/lectures/CSE549-Lec17-HMM.pdf
+[18]:{{ site.url }}/lectures/CSE549-Lec18-abinitio.pdf
 [proj]:{{ site.url }}/assets/ProjectList.pdf
 [honesty]:{{ site.url }}/assets/honesty.pdf
