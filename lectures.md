@@ -57,6 +57,6 @@ subtitle: Lectures and related material
 [18]:{{site.url}}/lectures/CSE549-Lec18-abinitio.pdf
 [19]:{{site.url}}/lectures/CSE549-Lec19_cufflinks.pdf
 [20]:{{site.url}}/lectures/CSE549-Lec20_fastmapping.pdf
-[21]:{{site.url}}/lectures/CSE549-Lec21_quantification.pdf
+[21]:{{site.url}}/lectures/CSE549-Lec22_quantification.pdf
 [proj]:{{ site.url}}/assets/ProjectList.pdf
 [honesty]:{{ site.url}}/assets/honesty.pdf
