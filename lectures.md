@@ -55,7 +55,7 @@ subtitle: Lectures and related material
 [15]:{{site.url}}/lectures/CSE549-Lec16-Kmers.pdf
 [17]:{{site.url}}/lectures/CSE549-Lec17-HMM.pdf
 [18]:{{site.url}}/lectures/CSE549-Lec18-abinitio.pdf
-[19]:{{site.url}}/lectures/CSE549-Lec19_cufflinks.pdf
+[19]:{{site.url}}/lectures/CSE549-Lec19_Cufflinks.pdf
 [20]:{{site.url}}/lectures/CSE549-Lec20_fastmapping.pdf
 [21]:{{site.url}}/lectures/CSE549-Lec22_quantification.pdf
 [proj]:{{ site.url}}/assets/ProjectList.pdf
